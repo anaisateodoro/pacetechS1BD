@@ -20,6 +20,8 @@ Primeira coisa que precisamos saber: **arraylist não é um array**, é uma list
 
 Antes que alguém pergunte, qual a diferença entre um array e uma lista?
 
+![ArrayListPratico](https://user-images.githubusercontent.com/70113922/186070038-9d9caa4c-06b1-443d-8277-13fa1a089907.png)
+
 Um **array** é um vetor de objetos ou tipos primitivos, possui um tamanho fixo informado no momento em que é inicializado.
 
 Um **ArrayList** é uma implementação da interface List, outra implmentação desta interface é o Likedlist. 
@@ -49,7 +51,6 @@ Abaixo uma pequena tabela com tal exemplo de diferenciação.
 | --------------------- |:-------------: |:-------------:| Object
 | Caractere             | Char           | right bar     | 
 | --------------------- |:-------------: |:-------------:|:-------------:
-
 | Integral              | byte           | Byte          | Number
 | Integral              | short          | Short         | Number 
 | Integral              | int            | Integer       | Number
@@ -107,8 +108,11 @@ Threads são conjuntos de instruções que podem ser executados dentro de proces
 
 
 ### Projeto Cassino 
-
+<div aligner="center">
 Projeto da Semana 01 está listado na pasta deste repositório.
+<div aligner="center">
+
+![ProjetoCassino](https://user-images.githubusercontent.com/70113922/186069974-c376974f-9187-4268-84b6-e7a19f712f70.png)
 
 ## Dificuldades encontradas
 
@@ -117,9 +121,9 @@ Realmente foi desafiante e estou contente com estes novos aprendizados propostos
 
 ---
 
-<div aligner="center">
+
   
-  ![giphy](https://user-images.githubusercontent.com/42880872/156003638-cb5322ae-3406-48c6-ba64-c8def9ed4876.gif)
+
   
   ⌨️ Com ❤️ por [Anaísa](https://github.com/anaisateodoro) 😊
 </div>
