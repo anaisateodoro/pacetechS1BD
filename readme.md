@@ -119,6 +119,8 @@ Projeto da Semana 01 está listado na pasta deste repositório.
 * Nesta semana, enfrentei alguns problemas de ordem operacional. Atualmente uso o sistema operacional Ubuntu 20.04 LTS. Nele estava instalado o NetBeans versão 14. Infelizmente o mesmo não estava criando itens básicos da IDE para desenvolvimento dos algoritmos e não estava rodando no Java Gladle. Depois, mesmos desinstalando e instalando a versão 12.5, obtive erros de compilação. Assim, tive que optar por outra IDE, a Eclipse. Estou usando neste PC no momento a versão do Java 17.0.4. 
 Realmente foi desafiante e estou contente com estes novos aprendizados propostos e com erros aprendidos. Está um pouco mais lento do que imaginava, mas se vai ganhando expertise com a prática do uso desta linguagem.
 
+![versao_java_ubuntu](https://user-images.githubusercontent.com/70113922/186070513-c7286b51-81b3-4972-8a78-02cba4316bc6.png)
+
 ---
 
 
